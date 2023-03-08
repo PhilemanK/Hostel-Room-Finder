@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'hrFinder'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9557EFC5795C4D6E9628955FB12C7BC5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5605A3BFE30F49D5A1F4F0574F9BD28B }}
           package: .
